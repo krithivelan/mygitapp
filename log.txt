@@ -1,0 +1,1 @@
+error logs are captured in this log file
